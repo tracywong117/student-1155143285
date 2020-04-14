@@ -1,4 +1,4 @@
-#### Interesting Exploration in GitHub
+## Interesting Exploration in GitHub
 
 **Hi, I am Wong Wing Yan (1155143285).**
 
