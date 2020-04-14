@@ -1,6 +1,6 @@
-####Interesting Exploration in GitHub
+#### Interesting Exploration in GitHub
 
-__Hi, I am Wong Wing Yan (1155143285). __
+__ Hi, I am Wong Wing Yan (1155143285). __
 
 ~~What I have learnt?~~
 
